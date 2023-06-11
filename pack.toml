@@ -1,0 +1,13 @@
+name = "Aval"
+author = "Lia"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6de413c4ccb8b90b1a01be0ea2fe60f53375cc7e71f63dc916c4de0f439dde87"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20"
